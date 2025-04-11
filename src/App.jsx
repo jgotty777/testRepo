@@ -1,6 +1,7 @@
-import MainContent from './components/MainContent';
-import logo from './assets/images/logo.png';
+import MainContent from "./components/MainContent";
+import logo from "./assets/images/logo.png";
 
+//test that push works
 function App() {
   return (
     <>
